@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-ete-vibration",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-ete-vibration",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Mohamed ali Tlili",
+  "license": "MIT",
+  "description": "cordova plugin for android to vibrate device",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/llittlefoxx/cordova-plugin-ete-vibration.git"
+  },
+  "bugs": {
+    "url": "https://github.com/llittlefoxx/cordova-plugin-ete-vibration/issues"
+  },
+  "homepage": "https://github.com/llittlefoxx/cordova-plugin-ete-vibration#readme"
+}
